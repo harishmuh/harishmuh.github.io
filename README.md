@@ -4,7 +4,7 @@
 
 ### Work Experience
 Data Analyst Intern @ Xeratic
--Developing code
+-Developing code for
 
 ### Education
 M.Sc Fish Biology & Fisheries Humboldt University Berlin 
