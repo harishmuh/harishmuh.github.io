@@ -1,4 +1,4 @@
-# Junior Data Scientist
+# HM Data Science Portfolio
 
 ### Project
 
